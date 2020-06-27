@@ -1,3 +1,3 @@
 # James Bond
-He is brave, clever, cool.
+He is brave, clever and cool.
 
